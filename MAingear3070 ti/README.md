@@ -14,4 +14,7 @@
 
 (fixed) a general intel wifi card has been installed with proper drivers.
 
+
+(PENDING) A good clean and wipe down woulddnt hurt 
+
 Just need a new laptop charger and new screws and we should be good here. 
